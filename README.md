@@ -1,0 +1,2 @@
+# recorditall
+Generic Journal
